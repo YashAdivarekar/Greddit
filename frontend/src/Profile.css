@@ -1,0 +1,24 @@
+.App {
+  font-size: xx-large;
+  align-self: center;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  min-width: 100vw;
+  color: white;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+    0 0 82px #0fa, 0 0 92px rgb(58, 39, 235), 0 0 102px rgb(35, 87, 255),
+    0 0 151px rgb(0, 8, 255);
+  /* background-color: black; */
+  /* background-image: url('http://i.stack.imgur.com/kx8MT.gif'); */
+  background-image: url("https://media.giphy.com/media/lSzQjkthGS1gc/giphy.gif");
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.ProfileButtons {
+  display: flex;
+  flex-direction: column;
+}
